@@ -11,6 +11,9 @@ once per escape hatch.
 
 > **Read the series alongside the code — it's written to be run, not just read.**
 > Start here: https://thomasrones.com/technical/languages/rust/the-rule-you-already-follow
+>
+> **New to LRU caches themselves?** The two-sentence version plus an animation:
+> https://thomasrones.com/technical/dsa/lru-cache
 
 ## Layout
 
